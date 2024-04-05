@@ -1,4 +1,5 @@
 startup project
 npm init -y
 npm i axios
+npm i react-hook-form
 npm i date-fns
