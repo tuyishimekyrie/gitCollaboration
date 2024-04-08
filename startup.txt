@@ -6,3 +6,4 @@ npm i date-fns
 npm i sonner
 npm i three-js
 npm i cors
+npm i prisma-client
